@@ -1,8 +1,8 @@
 # AutoML
  
-# Data Source: https://datahub.io/core/s-and-p-500
+### Data Source: https://datahub.io/core/s-and-p-500
 
-# Environment specification:
+### Environment specification:
 Dependencies:
 
 python=3.6.2
