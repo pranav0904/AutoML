@@ -1,4 +1,4 @@
-<h2>AutoML</h2>
+<h1>Automated Machine Learning</h1>
  
 To Learn more about AutoML concepts, check out my blog on https://medium.com/@pranavkhiste1/automating-the-machine-learning-processes-205077909662 <br>
  
